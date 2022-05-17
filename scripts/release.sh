@@ -5,7 +5,7 @@
 set -eu
 set -o pipefail
 
-REMOTE=https://github.com/terraform-provider-graylog/terraform-provider-graylog
+REMOTE=https://github.com/hen2001/terraform-provider-graylog
 
 ee() {
   echo "+ $*"
